@@ -1,0 +1,6 @@
+# PyTorch backend: Windows / Linux CUDA, or CPU fallback (slow).
+# CUDA wheels / driver compatibility may require a platform-specific torch install.
+torch>=2.3,<3
+transformers>=4.45,<5
+peft>=0.13,<1
+safetensors>=0.4,<1

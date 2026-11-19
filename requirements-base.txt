@@ -1,0 +1,2 @@
+huggingface-hub>=0.30,<2
+pypdf>=5,<8

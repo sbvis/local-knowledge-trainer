@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "local-knowledge-trainer"
+version = "0.4.5"
+description = "Local-first source ingestion, lightweight LLM fine-tuning, and portable GGUF knowledge packages on macOS, Linux, or Windows"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [{name = "Project contributors"}]
+keywords = ["local-llm", "fine-tuning", "mlx", "rag", "gguf", "knowledge-base"]
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: MacOS :: MacOS X",
+  "Operating System :: POSIX :: Linux",
+  "Operating System :: Microsoft :: Windows",
+  "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+
+[project.scripts]
+knowledge-trainer = "local_knowledge_trainer.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

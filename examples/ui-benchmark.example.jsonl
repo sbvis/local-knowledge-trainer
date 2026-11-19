@@ -1,0 +1,3 @@
+{"question":"How do I increase point size in Scatterplot?","must_include":["Point size","increase"],"must_not_include":["edit source","modify the code","getContextMenu"],"expected_source":"Scatterplot"}
+{"question":"How do I make dots bigger in Scatterplot?","must_include":["Point size","increase"],"must_not_include":["C++","getContextMenu"],"expected_source":"Scatterplot"}
+{"question":"How do I change an imaginary XYZZY setting?","expected_level":"insufficient","must_include":["cannot verify"],"must_not_include":["click settings","edit source"]}

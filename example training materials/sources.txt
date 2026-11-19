@@ -1,0 +1,33 @@
+# Active sources. ManiVault tutorials and complete documentation.
+https://github.com/ManiVaultStudio/manivaultstudio.github.io/tree/main/_tutorials
+./papers/documentation
+
+# Replace entries with repositories, document URLs, or local file/folder paths.
+# One source per line; blank lines and lines beginning with # are ignored.
+
+# ManiVault tutorials
+# https://www.manivault.studio/tutorials/cytosplore-evoviewer/
+# https://www.manivault.studio/tutorials/cytosplore-gradient-surfer/
+# https://www.manivault.studio/tutorials/cytosplore-simianviewer/
+# https://www.manivault.studio/tutorials/cytosplore-atacviewer/
+
+# GitHub repositories
+# https://github.com/ManiVaultStudio/Scatterplot
+# https://github.com/ManiVaultStudio/manivaultstudio.github.io
+# https://github.com/ManiVaultStudio/HDF5Loader
+# https://github.com/ManiVaultStudio/core
+# https://github.com/ManiVaultStudio/EvoViewerSetupPlugin
+# https://github.com/ManiVaultStudio/XSCPhyTVuPlugin
+# https://github.com/ManiVaultStudio/XSCClusterRankPlugin
+# https://github.com/ManiVaultStudio/ChartLegendViewPlugin
+# https://github.com/ManiVaultStudio/XSCTreeMetaData
+# https://github.com/ManiVaultStudio/XSCTreeData
+# https://github.com/ManiVaultStudio/XSCLoaderPlugin
+# https://github.com/ManiVaultStudio/XSCGeneDetectPlugin
+
+# The active GitHub tree URL limits ingestion to that directory.
+
+# Add local sources if desired, relative to this list file:
+# ./my-documents
+# ./my-manual.md
+# ./my-manual.pdf

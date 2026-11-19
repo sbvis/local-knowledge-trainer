@@ -1,0 +1,2 @@
+# Apple Silicon LoRA backend only
+mlx-lm>=0.20,<1

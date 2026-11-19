@@ -1,0 +1,5 @@
+# Example source list. Replace these with repositories/docs you want to train on.
+# One HTTPS GitHub repository or direct document URL per line.
+https://github.com/psf/requests
+# https://example.org/manual.pdf
+# ./my-documents

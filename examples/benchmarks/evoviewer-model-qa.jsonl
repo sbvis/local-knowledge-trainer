@@ -1,0 +1,7 @@
+{"question":"What should I click to select several cell types together in EvoViewer?","reference":"Published EvoViewer tutorial: click a cell-type rectangle, then hold Shift while clicking additional rectangles; the scatterplot highlights selected cells."}
+{"question":"How do I investigate genes that distinguish a selected cell population?","reference":"Select a cell type, click Update to compute characteristics, then sort the gene table via Species Appearance and adjust Top N as needed."}
+{"question":"How can I inspect relative versus absolute cell abundance across species?","reference":"Use abundance columns in the species table, click headers to sort, and hover/expand to inspect values. Distinguish Absolute from Relative."}
+{"question":"How can I zoom in on a branch of the cell-type hierarchy?","reference":"Ctrl-click a cell-type rectangle; Ctrl-click a parent rectangle to zoom out."}
+{"question":"Where can I find the expression pattern for a selected gene?","reference":"Select a gene in the left gene table; the scatterplot colors cells by gene expression and the right table/tree update."}
+{"question":"Can I change the color of every gene's expression using an exact menu path?","reference":"The cited tutorial does not establish an exact arbitrary color-selection menu for gene expression; do not fabricate it."}
+{"question":"How do I save the species selection table to CSV?","reference":"Click the table-view export icon, then Save Right Species Selection Table."}
