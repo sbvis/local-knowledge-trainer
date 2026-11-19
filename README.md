@@ -115,7 +115,7 @@ Compress-Archive -LiteralPath runs/my-assistant/release -DestinationPath runs/my
 Get-FileHash runs/my-assistant.zip -Algorithm SHA256
 ```
 
-The [ManiVault ChatAssistantPlugin](https://github.com/sbvis/chat-assistant-plugin) accepts a release ZIP through CMake's `ASSISTANT_PACKAGE_URL` and `ASSISTANT_PACKAGE_SHA256`, or a local `ASSISTANT_PACKAGE_DIR`. Applications should validate the package and test their own retrieval and answer workflow.
+The [ManiVault ChatAssistantPlugin](https://github.com/ManiVaultStudio/ChatAssistantPlugin.git) accepts a release ZIP through CMake's `ASSISTANT_PACKAGE_URL` and `ASSISTANT_PACKAGE_SHA256`, or a local `ASSISTANT_PACKAGE_DIR`. Applications should validate the package and test their own retrieval and answer workflow.
 
 ## Use an existing Python environment
 
